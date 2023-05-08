@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9huKa0rzmOTEoMO8iiLAhZ6p6XC2qW+33OCpXTOO6s2d2WPtNqn1SG2+ZStFExBanEkpzwr25WGn3RYO0OdW2g==",
+  "success": true,
+  "projectFilePath": "C:\\etaxdev\\aryaprojects\\RabbitMQ\\Send\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arya.gou\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\arya.gou\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\arya.gou\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

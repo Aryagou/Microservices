@@ -1,0 +1,17 @@
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.exe
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.deps.json
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.dll
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\bin\Debug\net6.0\Receive.pdb
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.dll
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\refint\Receive.dll
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.pdb
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+C:\etaxdev\aryaprojects\RabbitMQ\Receive\Receive\obj\Debug\net6.0\ref\Receive.dll

@@ -1,0 +1,17 @@
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\bin\Debug\net6.0\Send.exe
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\bin\Debug\net6.0\Send.deps.json
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\bin\Debug\net6.0\Send.dll
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\bin\Debug\net6.0\Send.pdb
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.dll
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\refint\Send.dll
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.pdb
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache
+C:\etaxdev\aryaprojects\RabbitMQ\Send\Send\obj\Debug\net6.0\ref\Send.dll
